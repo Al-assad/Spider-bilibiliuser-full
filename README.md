@@ -9,7 +9,7 @@
 * 使用广度遍历的方式（深度为1），原理上可以爬取所有B站的所有用户数据；  
 * B站用户数据接口：http://space.bilibili.com/ajax/member/GetInfo   
 Post方式获取数据，参数 mid （用户B站ID）；  
-* 详细爬取思路说明：<a href="">Al-assad 's CSDN blog</a>  
+* 详细爬取思路说明：<a href="http://blog.csdn.net/al_assad/article/details/70217621">Al-assad 's CSDN blog</a>  
 * 关联项目：<a href="https://github.com/Al-assad/Spider-bilibiliUser-active">基于Webmagic的B站活跃用户数据爬虫（深度遍历）</a>
 
 ### 爬取数据项
