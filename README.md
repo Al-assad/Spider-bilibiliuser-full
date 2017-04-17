@@ -2,7 +2,8 @@
 
 ### 技术栈说明  
 * 爬虫内核： <a herf="http://www.http://webmagic.io/" >Webmagic</a>  
-* 持久层： MySQL
+* 持久层： JDBC  
+* 数据库：MySQL  
 
 ### 程序说明
 * 使用广度遍历的方式（深度为1），原理上可以爬取所有B站的所有用户数据；  
